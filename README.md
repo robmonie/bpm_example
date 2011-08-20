@@ -3,8 +3,8 @@ A basic example of using bpm with spade to create an app based on Sproutcore 2 w
 
 # Basic usage
 
-  *bpm rebuild
-  *bpm preview
+  * bpm rebuild
+  * bpm preview
 
 Access app at http://localhost:4020/index.html
 
